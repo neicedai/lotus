@@ -160,4 +160,4 @@ replace github.com/filecoin-project/go-state-types => ./extern/go-state-types
 
 replace github.com/filecoin-project/go-paramfetch => github.com/filestar-project/go-paramfetch v0.0.2
 
-replace github.com/filecoin-project/go-jsonrpc v0.1.2 => ../../github.com/SamBoLuong/go-jsonrpc
+replace github.com/filecoin-project/go-jsonrpc v0.1.2-0.20201008195726-68c6a2704e49 => ../../github.com/SamBoLuong/go-jsonrpc
